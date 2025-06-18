@@ -44,9 +44,6 @@ A beginner-friendly example to learn about embedded web development and IoT usin
 
 > Hello from NodeMCU!
 
-## 📷 Screenshot
-*(Add screenshot of the web page if available)*
-
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
